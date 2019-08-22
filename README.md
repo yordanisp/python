@@ -1,2 +1,2 @@
 # python
-print("Just for learning purposes")
+print("Just for learning purposes.")
