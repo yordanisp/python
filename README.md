@@ -1,3 +1,4 @@
-# python
-"Just for learning purposes."
+#
+# "Just for learning purposes."
+#
 
