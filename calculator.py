@@ -1,4 +1,3 @@
-
 a = input("Enter a number: ")
 b = input("Enter other number: ")
 c = input("Enter calculation (s) sum (r) rest (m) mult (d) div:")
