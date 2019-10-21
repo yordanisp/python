@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\ypelaez\\envs\\test\\Scripts\\python.exe",
+    "python.pythonPath": "C:\\Users\\yordanis\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
     "python.testing.unittestArgs": [
         "-v",
         "-s",
@@ -9,5 +9,6 @@
     ],
     "python.testing.pytestEnabled": false,
     "python.testing.nosetestsEnabled": false,
-    "python.testing.unittestEnabled": true
+    "python.testing.unittestEnabled": false,
+    "python.testing.promptToConfigure": false
 }
